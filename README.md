@@ -1,5 +1,5 @@
 # WebSite-Mirror
-This is a simple batch script to download a website offline, I had this idea for my travling as I want to catch up with some articles. 
+This is a simple batch script to download a website recursively offline, I had this idea for my travling as I want to catch up with some articles. 
 
 **HOW?**
 
