@@ -5,6 +5,6 @@ This is a simple batch script to download a website offline, I had this idea for
 
 1- Download wget binary from https://eternallybored.org/misc/wget/
 
-2- Open cmd and cd to the downloaded bat script file directory. 
+2- Open cmd and cd to the downloaded bat script directory. 
 
 3- run WebSite-Mirror.bat 
