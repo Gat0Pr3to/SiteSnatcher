@@ -11,6 +11,3 @@ This is a simple batch script to download/scrape/crawl a website recursively to 
 
 
 
-**NOTE:**
-
-The contets of the website will be saved in the same directory, so if you want to specify a path just add ">" after the script and the path of your wish.
