@@ -7,7 +7,6 @@ This is a simple batch script to download/scrape/crawl a website recursively to 
 
 2- Open cmd and cd to the downloaded bat script directory. 
 
-3- run WebSite-Mirror.bat 
-
+3- run SiteSnatcher-V0.1.bat
 
 
