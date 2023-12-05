@@ -1,4 +1,4 @@
-# WebSite-Mirror
+# SiteSnatcher
 This is a simple batch script to download/scrape/crawl a website recursively to view it offline, I had this idea for my travling as I want to catch up with some online articles and blogs. 
 
 **HOW?**
